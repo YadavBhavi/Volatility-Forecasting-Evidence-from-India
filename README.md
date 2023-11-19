@@ -3,3 +3,4 @@
 -> Employed LSTMs, RF, transformers & attention models to predict future market volatility-Nifty 50</br>
 -> Used several exogenous features like gold, crude oil, treasury yields & argued statistical significances</br>
 
+Refer [Project Report](RnD_report_Bhavishya.pdf) for more details.
